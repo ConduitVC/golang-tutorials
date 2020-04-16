@@ -2,7 +2,7 @@ package graph
 
 //go:generate go run github.com/99designs/gqlgen
 
-import "github.com/chancegraff/gqlgen/graph/model"
+import "github.com/ConduitVC/gqlgen/graph/model"
 
 // This file will not be regenerated automatically.
 //

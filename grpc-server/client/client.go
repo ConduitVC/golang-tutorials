@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	pb "github.com/chancegraff/grpc2/gravatar"
+	pb "github.com/ConduitVC/grpc2/gravatar"
 	grpc "google.golang.org/grpc"
 )
 

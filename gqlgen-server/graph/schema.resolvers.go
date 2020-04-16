@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"math/rand"
 
-	"github.com/chancegraff/gqlgen/graph/generated"
-	"github.com/chancegraff/gqlgen/graph/model"
+	"github.com/ConduitVC/gqlgen/graph/generated"
+	"github.com/ConduitVC/gqlgen/graph/model"
 )
 
 func (r *mutationResolver) CreateTodo(ctx context.Context, input model.NewTodo) (*model.Todo, error) {

@@ -1,4 +1,4 @@
-module github.com/chancegraff/gqlgen
+module github.com/ConduitVC/gqlgen
 
 go 1.14
 

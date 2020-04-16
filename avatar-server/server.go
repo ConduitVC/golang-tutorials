@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/chancegraff/avatar/identicon"
+	"github.com/ConduitVC/avatar/identicon"
 )
 
 func getPath(hash []byte) string {

@@ -1,4 +1,4 @@
-module github.com/chancegraff/route
+module github.com/ConduitVC/route
 
 go 1.14
 

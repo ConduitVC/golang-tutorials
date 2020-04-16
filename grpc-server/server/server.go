@@ -5,7 +5,7 @@ import (
 	"log"
 	"net"
 
-	pb "github.com/chancegraff/grpc2/gravatar"
+	pb "github.com/ConduitVC/grpc2/gravatar"
 	"github.com/pkg/errors"
 	"google.golang.org/grpc"
 )

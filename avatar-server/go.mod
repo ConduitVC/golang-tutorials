@@ -1,3 +1,3 @@
-module github.com/chancegraff/avatar
+module github.com/ConduitVC/avatar
 
 go 1.14

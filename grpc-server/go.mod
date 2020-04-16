@@ -1,4 +1,4 @@
-module github.com/chancegraff/grpc2
+module github.com/ConduitVC/grpc2
 
 go 1.14
 
