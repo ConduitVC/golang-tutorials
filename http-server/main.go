@@ -1,3 +1,5 @@
+// https://golang.org/doc/articles/wiki/
+
 package main
 
 import (
@@ -55,5 +57,5 @@ func main() {
 	http.HandleFunc("/headers", headers)
 	http.HandleFunc("/google", google)
 
-	http.ListenAndServe(":8090", nil)
+	http.ListenAndServe(":8000", nil)
 }

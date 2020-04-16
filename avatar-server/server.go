@@ -1,3 +1,5 @@
+// https://github.com/GoBootcamp/avatarme
+
 package main
 
 import (

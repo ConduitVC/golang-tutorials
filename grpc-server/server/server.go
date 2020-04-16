@@ -1,3 +1,6 @@
+// https://blog.lelonek.me/a-brief-introduction-to-grpc-in-go-e66e596fe244
+// https://github.com/KamilLelonek/grpc-with-go
+
 package main
 
 import (

@@ -1,3 +1,5 @@
+// https://gqlgen.com/getting-started/
+
 package main
 
 import (
